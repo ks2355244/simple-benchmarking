@@ -3,6 +3,8 @@ def benchmark
   start_time = Time.now
 
   end_time = Time.now
+
+  running_time = start_time - end_time 
  
 end
 
